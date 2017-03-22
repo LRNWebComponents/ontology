@@ -17,3 +17,8 @@ This is a listing of design components supported in lrn core. These are element 
 - fork of / based on https://github.com/Saulis/iron-data-table
 - Provide a way of creating a table visualization to information that is sortable
 - will have sub-elements of some form, probably iron atoms
+
+## lrn-design-chip
+- fork of / based on https://www.webcomponents.org/element/WebPaperElements/paper-chip and/or http://bendavis78.github.io/paper-chip/paper-chip/index.html
+- Provide a way of creating a small "chip", useful in overviews / "tag" style listings
+
