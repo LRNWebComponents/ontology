@@ -28,6 +28,7 @@ This is a listing of design components supported in lrn core. These are element 
   - **parallax**
     - fork of / based on https://www.webcomponents.org/element/vguillou/parallax-element/demo/demo/index.html
     - Provide a simple way of doing parallax images
+- editor (photoshop thing) https://www.webcomponents.org/element/IngressoRapidoWebComponents/creative-photo-editor
 
 ## lrndesign-imagegallery
 - Provide simple way of presenting a lot of images in a gallery of different formats
