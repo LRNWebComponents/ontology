@@ -8,3 +8,7 @@ The system ontology are components that are reusable in learning systems. These 
 ## lrn-system-progress
 - Fork of https://www.webcomponents.org/element/vguillou/material-progress
 - Provide a way of visualizing basic data about A vs B vs C
+
+## lrn-system-pdf
+- Fork of https://www.webcomponents.org/element/IngressoRapidoWebComponents/pdf-browser-viewer
+- Provide a way of visualizing a pdf in context
