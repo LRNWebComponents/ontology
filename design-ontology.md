@@ -25,3 +25,7 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrn-design-image-parallax
 - fork of / based on https://www.webcomponents.org/element/vguillou/parallax-element/demo/demo/index.html
 - Provide a simple way of doing parallax images
+
+## lrn-design-audio-simple
+- fork of https://www.webcomponents.org/element/gorork/paper-audio-player
+- simple wrapper on an <audio> tag so that it doesn't take on what the browser dictates
