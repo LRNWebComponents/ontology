@@ -1,4 +1,4 @@
-# Ontology
+# Learning Ontology
 
 This is intended to give users a guide to understanding the hierarchy of LRN components, their use-cases, properties and relation to other elements.
 
