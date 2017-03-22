@@ -25,10 +25,12 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-image
 - Provide a simple wrapper on top of images for more advanced customizations
 - Support for multiple output / format options such as..
-  - *parallax*
+  - **parallax**
     - fork of / based on https://www.webcomponents.org/element/vguillou/parallax-element/demo/demo/index.html
     - Provide a simple way of doing parallax images
 
-## lrndesign-audio-simple
-- fork of https://www.webcomponents.org/element/gorork/paper-audio-player
-- simple wrapper on an <audio> tag so that it doesn't take on what the browser dictates
+## lrndesign-audio
+- Ensure we have some control over what the browsers all want to default <audio> to mean
+  - **simple**
+    - fork of https://www.webcomponents.org/element/gorork/paper-audio-player
+    - Simple wrapper on audio tag that's very clean and standardized
