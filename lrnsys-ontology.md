@@ -26,3 +26,6 @@ These are components that help glue the experience together. They generally aren
 		"object"...
 	}
   </lrn-xapi>
+## lrnsys-nodetree
+- a fork of https://www.webcomponents.org/element/vpusher/paper-tree?code=9c7226331a20915bea54
+- a hierarchy that can be collapsed and expanded by passing it a simple json array
