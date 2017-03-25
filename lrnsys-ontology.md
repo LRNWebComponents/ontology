@@ -15,17 +15,19 @@ These are components that help glue the experience together. They generally aren
 ## lrnsys-xapi
 - an xapi statement generator
 - callback location
-- <lrn-xapi callback="whatever.com/xapi">
-	{
-		"verb": "viewed",
-		"actor": {
-			"mbox": "btopro@outlook.com",
-			"name": "btopro"
-		},
-		"authority"...
-		"object"...
-	}
-  </lrn-xapi>
+```
+<lrn-xapi callback="whatever.com/xapi">
+{
+	"verb": "viewed",
+	"actor": {
+		"mbox": "btopro@outlook.com",
+		"name": "btopro"
+	},
+	"authority"...
+	"object"...
+}
+</lrn-xapi>
+```
 ## lrnsys-nodetree
 - a fork of https://www.webcomponents.org/element/vpusher/paper-tree?code=9c7226331a20915bea54
 - a hierarchy that can be collapsed and expanded by passing it a simple json array
