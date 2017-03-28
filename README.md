@@ -1,5 +1,35 @@
 # LRN Ontology
-A working ontology for how LRN works, the elements contained and what purpose they serve. LRN is broken down into three families of custom elements / ontologies:
+A simple design language for expressing education concepts based on [webcomponents](http://webcomponents.org) and [atomic design](http://atomicdesign.bradfrost.com/table-of-contents/).
+
+# Guiding Principles
+* Atomic Design. LRN focuses on the molecule and organism level
+* Design is abstracted from Instruction
+* Accessibility, elements should be to the highest degrees of accessibility
+* Readability at a glance, elements should be able to be understood by looking at them
+* Instruction will use Design & have a default method of visualization
+* This should work for visually communicating a course on a completely static html page
+* Stay at the molecule / organism level (instructionally). Example: Assignment, Term
+* Simple naming convention to allow for more to be added easily
+* 0 hierarchy connotation in tags (for example: lrn-assignment not lrn-instruction-assignment)
+* Stick to stock webcomponents capabilities as much as possible when creating design components
+
+
+# Guiding Questions
+* How are we improving learning?
+* How are we making faculty lives easier?
+* How are we making instructional design lives easier?
+
+# Who LRN is for
+**Students** who want a cohesive visual experience across solutions
+
+**Instructors** who want simple, readable HTML to express their teaching
+
+**Instructional Designers** who want expressive HTML to help meet course objectives
+
+**Developers** who want to build learning technologies to an open standard across design specifications
+
+---
+The LRN Ontology is broken down into four families:
 ## lrn
 This is what people would add into an html field. It's the instructionally focused element, told to render a certain way. Examples would be readable by the lay-person such as `<lrn-assignment label="Assignment 1">` or 
 ```
