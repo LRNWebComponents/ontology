@@ -7,23 +7,28 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 - title
 - (multiple)lrn-competencies
 - (multiple)lrn-page
+
 ## lrn-page
 - a page of instruction, simple wrapper element for quantification purposes
+
 ## lrn-vocab
 - vocabulary term
 - term
 - definition
 - optional: know-source(multiple)
+
 ## lrn-lecture
 - lecture, in place or reference to one in the real world
 - title
 - link (optional)
 - duration (optional)
 - date (optional)
+
 ## lrn-quote
 - called out quote
 - quote
 - attribution
+
 ## lrn-additional
 - additional / associated information
 - body
