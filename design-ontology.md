@@ -7,6 +7,9 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-presentation
 - Fork of or based off of https://github.com/ChristianKohler/web-presentation
 - Provide a way of presenting a "power-point" style presentation of material to navigate through
+## lrndesign-pageplayer
+- Wrapping of https://github.com/googlecodelabs/codelab-components
+- Provide a "one page app" feel to a lesson that can function as a stand alone. https://www.youtube.com/watch?v=Dzv4ESis9AA for example describing this
 ## lrndesign-avatar
 - fork of / based on https://www.webcomponents.org/element/Abe90/paper-avatar/demo/demo/index.html
 - Provide a way of creating an icon for anything. It has support for jdenticon or doing it via letters or an image
