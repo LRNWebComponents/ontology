@@ -1,5 +1,8 @@
 # Design ontology
 This is a listing of design components supported in lrn core. These are element agnostic and could be used as a stand alone with thier properties populated directly. These are all prefixed as lrn-design since this is the design side of the learning components. These names are draft and subject to change / enhancement.
+## lrndesign-materialwordart
+- fork / based on https://github.com/johnnyboyct/material-word
+- Provide a simple way of making cool wordart from letters / words
 ## lrndesign-chartjs
 - Based on https://github.com/robdodson/chart-elements maybe wrapping it
 - Provide a drop dead simple way of rendering / charting data in chartjs
