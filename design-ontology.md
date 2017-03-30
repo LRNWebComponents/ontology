@@ -1,6 +1,8 @@
 # Design ontology
 This is a listing of design components supported in lrn core. These are element agnostic and could be used as a stand alone with thier properties populated directly. These are all prefixed as lrn-design since this is the design side of the learning components. These names are draft and subject to change / enhancement.
-
+## lrndesign-chartjs
+- Based on https://github.com/robdodson/chart-elements maybe wrapping it
+- Provide a drop dead simple way of rendering / charting data in chartjs
 ## lrndesign-card
 - Fork of or based off of https://www.webcomponents.org/element/PolymerElements/paper-card and http://materializecss.com/cards.html
 - Provide a way of representing an item for overview purposes / having a lot of information in a consistent space
