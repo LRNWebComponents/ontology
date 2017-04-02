@@ -1,7 +1,9 @@
 # lrn Learning Ontology
 
 This is intended to give users a guide to understanding the hierarchy of LRN components, their use-cases, properties and relation to other elements.
-
+# required properties
+display: this is reserved for allowing users to define what template to run the tag through for output. Users can describecard as the display for example and know their output will wire the related properties up to a lrndesign-card element.
+title: this should be used for the title or an object being presented. Not label or name whenever possible.
 ## lrn-lesson
 - a container relating pages together
 - title
@@ -31,6 +33,7 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 
 ## lrn-additional
 - additional / associated information
+- title
 - body
 - theme
 ## lrn-steps
@@ -48,7 +51,7 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 - theme (light,dark,color, etc)
 ## lrn-objective
 - a single instructional objective
-- name
+- title
 - lrn-competency (optional associated competency if gaining a skill here)
 - icon (optional)
 - description
@@ -77,7 +80,7 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 - (multiple)lrn-assignment
 ## lrn-assignment
 - an assignment of instruction
-- name
+- title
 - description
 - due date (optional)
 - {rest of OER ontology}
@@ -93,7 +96,7 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 - last-name
 ## lrn-course
 - a sequence of course-objects
-- name
+- title
 - description
 - instructor(lrn-person)
 - machine_name
@@ -105,17 +108,17 @@ This is intended to give users a guide to understanding the hierarchy of LRN com
 ## lrn-course-object
 - higher level grouping of materials in a course
 - type (module,lesson,unit,etc)
-- name
+- title
 - icon
 - image
 - colors
 ## lrn-course-section
 - organizational element for the offering of a course
-- name
+- title
 - dates
 - term / semester (optional)
 - lrn-course-person (instructor)
 ## lrn-knowledge-source
 - Knowledge, references to knowledge source of some form
 - url
-- name
+- title
