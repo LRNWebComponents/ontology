@@ -1,7 +1,8 @@
 # construction guidelines for webcomponents
 These are some general guidelines for our development of lrn, lrndesign, hax and lrnsys.
 
-- Align with the platform, aka Polymer 2.x.
+- Align with "the platform" but start at Polymer 1.0 until 2.0 reaches higher theshold of adoption
+- Ensure `lrn` elements use `LRNBehaviors.DisplayBehaviors` so they have a consistent way of abstracting meaning from design
 - Attributes in, Events out
 - Always align methods with setters
   - set sets a property and then bubbles up an event to react to / makes a change
