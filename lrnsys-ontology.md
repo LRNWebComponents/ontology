@@ -1,5 +1,8 @@
 # lrnsys ontology
 These are components that help glue the experience together. They generally aren't used by themselves as they are at the atomic level but are used in lrn and lrndesign components in order to create consistent behaviors and experiences downstream.
+## [lrnsys-behaviors](https://github.com/LRNWebComponents/lrnsys-behaviors)
+- provides behaviors to be implemented by lrn and lrndesign components that desire object consistency across elements
+- useful for building new lrn components that have a display connotation (for example)
 ## lrnsys-lti
 - provide a tag that can do LTI launches for data, basically a glorified OAuth and iframe wrapper (woo)
 ## lrnsys-pdf
