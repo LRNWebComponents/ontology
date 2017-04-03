@@ -1,9 +1,8 @@
 # lrn Learning Ontology
 
 This is intended to give users a guide to understanding the hierarchy of LRN components, their use-cases, properties and relation to other elements.
-# required properties
-display: this is reserved for allowing users to define what template to run the tag through for output. Users can describecard as the display for example and know their output will wire the related properties up to a lrndesign-card element.
-title: this should be used for the title or an object being presented. Not label or name whenever possible.
+## behaviors
+https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that you can mix into elements. lrn elements are there to abstract instructional / learning connotations away from design. The lrn elements will all implement the design elements that make sense. For this reason, all lrn elements will implement the lrnsys-behaviors for DisplayBehaviors. Not a developer? Then don't worry about this part. Just know it helps standardize and speed up the implementation of new instructional components in a variety of designs and styles.
 ## lrn-lesson
 - a container relating pages together
 - title
@@ -78,7 +77,7 @@ title: this should be used for the title or an object being presented. Not label
 ## lrn-assignments
 - a list of lrn-assignment
 - (multiple)lrn-assignment
-## lrn-assignment
+## [lrn-assignment](https://lrnwebcomponents.github.io/lrndesign-assignment/components/lrndesign-assignment/)
 - an assignment of instruction
 - title
 - description
