@@ -6,13 +6,13 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-chartjs
 - Based on https://github.com/robdodson/chart-elements maybe wrapping it
 - Provide a drop dead simple way of rendering / charting data in chartjs
-## lrndesign-card
+## [lrndesign-card](https://github.com/LRNWebComponents/lrndesign-card)
 - Fork of or based off of https://www.webcomponents.org/element/PolymerElements/paper-card and http://materializecss.com/cards.html
 - Provide a way of representing an item for overview purposes / having a lot of information in a consistent space
 ## lrndesign-presentation
 - Fork of or based off of https://github.com/ChristianKohler/web-presentation
 - Provide a way of presenting a "power-point" style presentation of material to navigate through
-## lrndesign-contentsequencer
+## [lrndesign-contentsequencer](https://github.com/LRNWebComponents/lrndesign-contentsequencer)
 - Wrapping of https://github.com/googlecodelabs/codelab-components
 - Provide a "one page app" feel to a lesson that can function as a stand alone. https://www.youtube.com/watch?v=Dzv4ESis9AA for example describing this
 ## lrndesign-avatar
