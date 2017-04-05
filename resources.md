@@ -20,6 +20,10 @@ The Web Components spec is meant to define how we as developers are going to man
 - HTML Imports
 - HTML Templates
 
+## No, that's ok I use Angular / React / Vue / Ember / Backbone / Knockout / Riot / Wordpress / Drupal / Jeckyll / Rails / Laravel / concreate5 / hand crafted HTML ...(page 1 of 10,000).  I don't need Web Components.
+
+That's the beauty of web components, you can use them with everything! So hears the methodology, you can use web components for as much or as little of your web interface as you want.
+
 ## Ok I'm on board. Now what?
 
 - Here is a great talk by Rob Dodson talking about what the development process looks like when building web components with Polymer: [End to End with Polymer](https://www.youtube.com/watch?v=1f_Tj_JnStA)
