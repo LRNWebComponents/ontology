@@ -20,7 +20,7 @@ The Web Components spec is meant to define how we as developers are going to man
 - HTML Imports
 - HTML Templates
 
-## No, that's ok I use Angular / React / Vue / Ember / Backbone / Knockout / Riot / Wordpress / Drupal / Jeckyll / Rails / Laravel / concreate5 / hand crafted HTML ...(page 1 of 10,000).  I don't need Web Components.
+## But I use Angular / React / Vue / Ember / Backbone / Knockout / Riot / Wordpress / Drupal / Jeckyll / Rails / Laravel / concreate5 / hand crafted HTML ...(page 1 of 10,000).  I don't need Web Components.
 
 This is very important, you can use web components in any of these projects, dare I say you SHOULD use web components in your projects. I guarentee, every one of these projects have implimented a "Date Picker".  None of these Date Pickers are shareable between projects. In fact, most of them aren't sharable between different versions of the same project... dumb.
 
