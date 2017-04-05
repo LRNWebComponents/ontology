@@ -10,3 +10,6 @@
 
 - - [Polymer CLI: Getting Started -- Polycasts #48](https://youtu.be/pj2lmXVa84U)
 - - [Accessible Components: Screen readers -- Polycasts #50](https://www.youtube.com/watch?v=Lktz1KXbTOU)
+- - 
+
+- Now join the [polymer.slack.com](polymer.slack.com)
