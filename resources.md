@@ -2,6 +2,10 @@
 
 ## What exactly is Polymer?
 
+Polymer is library that helps you make production ready web components today! Polymer helps to ease some of the pain points around creating custom web components before the browsers have fully implimented the specs.  It has some tools, polyfills, helper functions, and syntastical sugar.  Kind of like jQuery for web components.
+
+## Ok, what are web components?
+
 This confuses lots of people at first. You might have heard the term 'Web Components' or 'Custom Elements' before, Polymer helps you make these.  Web Components and Custom Elements are not competeing technologies to Polymer, they are actual specs:
 
   - [Custom Elements Spec](https://www.w3.org/TR/custom-elements/)
@@ -15,8 +19,6 @@ The Web Components spec is meant to define how we as developers are going to man
 - Custom Elements
 - HTML Imports
 - HTML Templates
-
-Polymer is library that helps you make production ready web components today! Polymer helps to ease some of the pain points around creating custom web components before the browsers have fully implimented the specs.  It has some tools, polyfills, helper functions, and syntastical sugar.  Kind of like jQuery for web components.
 
 ## Ok I'm on board. Now what?
 
