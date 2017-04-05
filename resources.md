@@ -30,7 +30,7 @@ Instead, you could have either reused an existing [date picker web component](ht
 
 When you make web components, you create custom properties and events that act as an API for your frameworks to interact with. Unidirectional data flow; properties-down, data-up; these concepts are also found in front-end frameworks like Angular, React, Vue, etc. These API's make it as simple as possible to fit into your workflow.
 
-## Ok I'm on board. Now what?
+## Ok, I'm on board. Now what?
 
 - Here is a great talk by Rob Dodson talking about what the development process looks like when building web components with Polymer: [End to End with Polymer](https://www.youtube.com/watch?v=1f_Tj_JnStA)
 
