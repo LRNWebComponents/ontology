@@ -18,6 +18,8 @@ The Web Components spec is meant to define how we as developers are going to man
 
 Polymer is library that helps you make production ready web components today! Polymer helps to ease some of the pain points around creating custom web components before the browsers have fully implimented the specs.  It has some tools, polyfills, helper functions, and syntastical sugar.  Kind of like jQuery for web components.
 
+## Ok I'm on board. Now what?
+
 - Here is a great talk by Rob Dodson talking about what the development process looks like when building web components with Polymer: [End to End with Polymer](https://www.youtube.com/watch?v=1f_Tj_JnStA)
 
 - Once you get the general concept you're going to want to start building something. There is a really good [getting started tutorial](https://www.polymer-project.org/1.0/start/first-element/intro) on the Polymer website.
