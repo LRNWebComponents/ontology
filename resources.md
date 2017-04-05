@@ -11,7 +11,12 @@ This confuses lots of people at first. You might have heard the term 'Web Compon
   
 Custom Elements spec allows you to define your own custom HTML tags / DOM elements. You're browser will allow you to define a tag called `flag-icon` and if you place `<flag-icon country="nl"></flag-icon>`, it will know how to interpert it.
 
-Web Components made up of 
+The Web Components spec is meant to define how we as developers are going to manage the creation of Custom Elements.  They are made up of four individual specs that will work together:
+  
+  - Shadow Dom
+  - Custom Elements
+  - HTML Imports
+  - HTML Templates
 
 - Here is a great talk by Rob Dodson talking about what the development process looks like when building web components with Polymer: [End to End with Polymer](https://www.youtube.com/watch?v=1f_Tj_JnStA)
 
