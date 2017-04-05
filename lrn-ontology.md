@@ -26,15 +26,15 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - date (optional)
 
 ## lrn-quote
-- called out quote
+- quotation from a source / person
 - quote
 - attribution
 
-## lrn-additional
+## lrn-content-aside
 - additional / associated information
-- title
-- body
-- theme
+- label
+- `<content>`
+
 ## lrn-steps
 - steps to complete something
 - (multiple)lrn-step
@@ -44,6 +44,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - text
 - icon (optional)
 - required / optional flag (optional)
+
 ## lrn-objectives
 - listing of instructional objectives
 - (multiple)lrn-objective
@@ -54,11 +55,13 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - lrn-competency (optional associated competency if gaining a skill here)
 - icon (optional)
 - description
+
 ## lrn-competency
 - a new skill expressed to the learner
 - title
 - description
 - (multiple) lrn-xapi
+
 ## lrn-examples
 - a series of examples of work
 - (multiple) lrn-example
@@ -66,14 +69,17 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - example work
 - a resource that is an example of work to demonstrate expectations / possibilities
 - media element of some form (video, img, audio, text)
+
 ## lrn-math
 - offset mathjax loaded item
 - equation (mathjax markdown)
+
 ## lrn-code
 - offset code block
 - language
 - theme (light/dark)
 - code
+
 ## lrn-assignments
 - a list of lrn-assignment
 - (multiple)lrn-assignment
@@ -83,6 +89,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - description
 - due date (optional)
 - {rest of OER ontology}
+
 ## lrn-roster
 - a list of lrn-course-people
 - lrn-course-person
@@ -93,6 +100,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - icon
 - first-name
 - last-name
+
 ## lrn-course
 - a sequence of course-objects
 - title
@@ -104,6 +112,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - image
 - colors
 - (multiple)lrn-course-object
+
 ## lrn-course-object
 - higher level grouping of materials in a course
 - type (module,lesson,unit,etc)
@@ -111,12 +120,14 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - icon
 - image
 - colors
+
 ## lrn-course-section
 - organizational element for the offering of a course
 - title
 - dates
 - term / semester (optional)
 - lrn-course-person (instructor)
+
 ## lrn-knowledge-source
 - Knowledge, references to knowledge source of some form
 - url
