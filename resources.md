@@ -22,7 +22,11 @@ The Web Components spec is meant to define how we as developers are going to man
 
 ## No, that's ok I use Angular / React / Vue / Ember / Backbone / Knockout / Riot / Wordpress / Drupal / Jeckyll / Rails / Laravel / concreate5 / hand crafted HTML ...(page 1 of 10,000).  I don't need Web Components.
 
-This is very important, you can use web components in any of these projects, dare I say you SHOULD use web components in your projects. I guarentee, every one of these projects have implimented a "Date Picker".  None of these Date Pickers are shareable between projects, how absolutely insane is that? How much wasted effort is that?
+This is very important, you can use web components in any of these projects, dare I say you SHOULD use web components in your projects. I guarentee, every one of these projects have implimented a "Date Picker".  None of these Date Pickers are shareable between projects. In fact, most of them aren't sharable between different versions of the same project... dumb.
+
+Instead, you could have either reused an existing [date picker web component](https://www.webcomponents.org/element/bendavis78/paper-date-picker), or create one yourself that you could then easily [contribute back to the community](https://www.webcomponents.org/publish).
+
+When you make web components, you create custom properties and events that act as an API for your frameworks to interact with. Unidirectional data flow; properties-down, data-up; these concepts are also found in front-end frameworks like Angular, React, Vue, etc. These API's make it as simple as possible to fit into your workflow.
 
 ## Ok I'm on board. Now what?
 
