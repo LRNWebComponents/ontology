@@ -13,11 +13,11 @@ A simple design language for expressing education concepts based on [webcomponen
 * 0 hierarchy connotation in tags (for example: lrn-assignment not lrn-instruction-assignment)
 * Stick to stock webcomponents capabilities as much as possible when creating design components
 
-
 # Guiding Questions
-* How are we improving learning?
+* How are we improving potential learning outcomes for learners?
 * How are we making faculty lives easier?
-* How are we making instructional design lives easier?
+* How are we making instructional designers' lives easier?
+* Are we improving design, context, clarity, and accessibility of our resources with this decision?
 
 # Who LRN is for
 **Students** who want a cohesive visual experience across solutions
@@ -46,6 +46,7 @@ This is for the visual representation of an instructional concept (because instr
 ``` 
 
 in order to provide examples or highlight instructional resources in some manner.
+lrndesign is also where we provide designed wrappers for html element architypes. For example, a `<blockquote>` tag has a matching `<lrndesign-blockquote>` tag which wraps and expands the utility of `<blockquote>`. This would then be implemented in a `<lrn-quote>` tag, abstracting the design options away from the significance of the tag semantically. This can get confusing when it comes to in page elements like aside, blockquote and p tags so having a consistent hueristic for defining and implementing them is critical. 
 ## lrnsys
 These elements are for providing systematic design integrations as well as reusable elements across other design components. These are things that aren't really designed to work on their own but to help inform the usage of other components. Examples of this would be a `<lrnsys-progress>` which could visualize data about progression or `<lrnsys-contextmenu>` which could provide a standard way of presenting contextual menu items. These are structural atoms that wouldn't be used on their own.
 ## hax
