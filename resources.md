@@ -24,7 +24,7 @@ The Web Components spec is meant to define how we as developers are going to man
 
 ## But I use Angular / React / Vue / Ember / Backbone / Knockout / Riot / Wordpress / Drupal / Jeckyll / Rails / Laravel / concreate5 / hand crafted HTML ...(page 1 of 10,000).  I don't need Web Components.
 
-This is very important, you can use web components in any of these projects, dare I say you SHOULD use web components in your projects. I guarentee, every one of these projects have implimented a "Date Picker".  None of these Date Pickers are shareable between projects. In fact, most of them aren't sharable between different versions of the same project.
+This is very important. You can use web components in any of these projects, dare I say you SHOULD use web components in your projects. I guarentee, every one of these projects have implimented a "Date Picker".  None of these Date Pickers are shareable between projects. In fact, most of them aren't sharable between different versions of the same project.
 
 Instead, you could have either reused an existing [date picker web component](https://www.webcomponents.org/element/bendavis78/paper-date-picker), or create one yourself that you could then easily [contribute back to the community](https://www.webcomponents.org/publish).
 
