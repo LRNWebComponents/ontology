@@ -6,7 +6,7 @@
 
 - Once you get the general concept you're going to want to start building something. There is a really good [getting started tutorial](https://www.polymer-project.org/1.0/start/first-element/intro) on the Polymer website.
 
-- Now that you kind of understand how the Polymer world works you're going to dive into watching as many Polycasts videos that you possibly can.  Starting with these:
+- Now that you kind of understand how the Polymer world works you're going to dive into watching as many Polycasts videos that you possibly can.  Starting with these (note: some of these videos are span different versions, the syntax might slightly differ from the current version but the concepts are universal):
 
   - [Polymer CLI: Getting Started -- Polycasts #48](https://youtu.be/pj2lmXVa84U)
   - [Give your element an API -- Polycasts #16](https://youtu.be/7jolqbtIdiY?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
