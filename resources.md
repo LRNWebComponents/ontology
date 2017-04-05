@@ -4,7 +4,7 @@
 
 Polymer is library that helps you make production ready web components today! Polymer helps to ease some of the pain points around creating custom web components before the browsers have fully implimented the specs.  It has some tools, polyfills, helper functions, and syntastical sugar.
 
-It should be noted that there are other libraries similar to Polymer: [Skatejs](https://github.com/skatejs/skatejs), [X-Tag](https://x-tag.github.io/). These are awesome libraries, we just prefer Polymer.
+It should be noted that there are other libraries similar to Polymer: [Skatejs](https://github.com/skatejs/skatejs), [X-Tag](https://x-tag.github.io/). These are awesome libraries. We feel Polymer is very approachable, has great tooling, and a great community.
 
 ## Ok, what are web components?
 
