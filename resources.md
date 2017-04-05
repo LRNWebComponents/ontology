@@ -1,8 +1,6 @@
 # Resources
 
-## I know nothing about web components, where should I start?
-
-- What exactly is Polymer?
+## What exactly is Polymer?
 
 This confuses lots of people at first. You might have heard the term 'Web Components' or 'Custom Elements' before, Polymer helps you make these.  Web Components and Custom Elements are not competeing technologies to Polymer, they are actual specs:
 
@@ -13,10 +11,12 @@ Custom Elements spec allows you to define your own custom HTML tags / DOM elemen
 
 The Web Components spec is meant to define how we as developers are going to manage the creation of Custom Elements.  They are made up of four individual specs that will work together:
   
-  - Shadow Dom
-  - Custom Elements
-  - HTML Imports
-  - HTML Templates
+- Shadow Dom
+- Custom Elements
+- HTML Imports
+- HTML Templates
+
+Polymer is library that helps you make production ready web components today! Polymer helps to ease some of the pain points around creating custom web components before the browsers have fully implimented the specs.  It has some tools, polyfills, helper functions, and syntastical sugar.  Kind of like jQuery for web components.
 
 - Here is a great talk by Rob Dodson talking about what the development process looks like when building web components with Polymer: [End to End with Polymer](https://www.youtube.com/watch?v=1f_Tj_JnStA)
 
