@@ -1,5 +1,10 @@
 # Design ontology
 This is a listing of design components supported in lrn core. These are element agnostic and could be used as a stand alone with thier properties populated directly. These are all prefixed as lrn-design since this is the design side of the learning components. These names are draft and subject to change / enhancement.
+## [lrndesign-abbreviation](https://github.com/LRNWebComponents/lrndesign-abbreviation/)
+- A simple wrapper for an abbr tag to improve design flexibility
+## [lrndesign-blockquote](https://github.com/LRNWebComponents/lrndesign-blockquote)
+- A simple wrapper for blockquote to improve design flexibility and ensure a citation exists for the quote
+
 ## lrndesign-materialwordart
 - fork / based on https://github.com/johnnyboyct/material-word
 - Provide a simple way of making cool wordart from letters / words
