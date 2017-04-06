@@ -4,6 +4,9 @@ This is a listing of design components supported in lrn core. These are element 
 - A simple wrapper for an abbr tag to improve design flexibility
 ## [lrndesign-blockquote](https://github.com/LRNWebComponents/lrndesign-blockquote)
 - A simple wrapper for blockquote to improve design flexibility and ensure a citation exists for the quote
+## [lrndesign-aside](https://github.com/LRNWebComponents/lrndesign-blockquote)
+- A simple wrapper for aside to improve design flexibility and ensure a heading exists for the related content
+- also provides a number of ways of presenting itself visually based on simple options
 
 ## lrndesign-materialwordart
 - fork / based on https://github.com/johnnyboyct/material-word
