@@ -9,10 +9,15 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - (multiple)lrn-competencies
 - (multiple)lrn-page
 
-## lrn-page
+## [lrn-page](https://github.com/LRNWebComponents/lrn-page)
 - a page of instruction, simple wrapper element for quantification purposes
 
-## lrn-vocab
+## [lrn-content](https://github.com/LRNWebComponents/lrn-content)
+- a simple content element to indicate that this area is educational content. It's a wrapper that provides a title and then prints content so it's a useful way of offsetting material. This could be used just below lrn-page or multiple implementations of this in a single page to illustrate that there are multiple concepts / unique groupings of content.
+- title
+- `<content>` for body of everything
+
+## [lrn-vocab](https://github.com/LRNWebComponents/lrn-vocab)
 - vocabulary term
 - term
 - definition
@@ -30,7 +35,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - quote
 - attribution
 
-## lrn-content-aside
+## lrn-aside
 - additional / associated information
 - label
 - `<content>`
