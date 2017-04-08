@@ -35,7 +35,7 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - quote
 - attribution
 
-## lrn-aside
+## [lrn-aside](https://github.com/LRNWebComponents/lrn-aside)
 - additional / associated information
 - label
 - `<content>`
