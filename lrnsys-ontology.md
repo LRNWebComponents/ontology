@@ -3,6 +3,9 @@ These are components that help glue the experience together. They generally aren
 ## [lrnsys-behaviors](https://github.com/LRNWebComponents/lrnsys-behaviors)
 - provides behaviors to be implemented by lrn and lrndesign components that desire object consistency across elements
 - useful for building new lrn components that have a display connotation (for example)
+## lrnsys-chartjs
+- Based on https://github.com/robdodson/chart-elements maybe wrapping it
+- Provide a drop dead simple way of rendering / charting data in chartjs
 ## lrnsys-lti
 - provide a tag that can do LTI launches for data, basically a glorified OAuth and iframe wrapper (woo)
 ## lrnsys-pdf
