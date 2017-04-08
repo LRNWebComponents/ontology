@@ -10,9 +10,6 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-materialwordart
 - fork / based on https://github.com/johnnyboyct/material-word
 - Provide a simple way of making cool wordart from letters / words
-## lrndesign-chartjs
-- Based on https://github.com/robdodson/chart-elements maybe wrapping it
-- Provide a drop dead simple way of rendering / charting data in chartjs
 ## [lrndesign-card](https://github.com/LRNWebComponents/lrndesign-card)
 - Fork of or based off of https://www.webcomponents.org/element/PolymerElements/paper-card and http://materializecss.com/cards.html
 - Provide a way of representing an item for overview purposes / having a lot of information in a consistent space
