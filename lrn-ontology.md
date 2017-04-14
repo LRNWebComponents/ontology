@@ -3,6 +3,18 @@
 This is intended to give users a guide to understanding the hierarchy of LRN components, their use-cases, properties and relation to other elements.
 ## behaviors
 https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that you can mix into elements. lrn elements are there to abstract instructional / learning connotations away from design. The lrn elements will all implement the design elements that make sense. For this reason, all lrn elements will implement the lrnsys-behaviors for DisplayBehaviors. Not a developer? Then don't worry about this part. Just know it helps standardize and speed up the implementation of new instructional components in a variety of designs and styles.
+## lrn-activities
+- a list of lrn-activity tags
+- title (example: Required readings, steps to completion, etc)
+- optional (optional boolean)
+- url (optional, string, source to ajax load and template stamp lrn-activity tags)
+- `<content>` made up of lrn-activity tags
+## lrn-activity
+- an individual activity to engage in
+- title (example: Read chapter 1, Watch this video)
+- url (optional, string, link to a place to engage in this activity)
+- optional (optional boolean)
+
 ## lrn-lesson
 - a container relating pages together
 - title
@@ -40,11 +52,11 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - label
 - `<content>`
 
-## lrn-steps
-- steps to complete something
-- (multiple)lrn-step
+## lrn-procedures
+- steps to complete something, listing of tasks to accomplish
+- (multiple)lrn-procedure
 - type (number,bullet,required, optional)
-## lrn-step
+## lrn-procedure
 - a single step to completion
 - text
 - icon (optional)
