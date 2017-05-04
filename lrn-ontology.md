@@ -29,6 +29,21 @@ https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that
 - title
 - `<content>` for body of everything
 
+## lrn-material-list
+- a list of multiple lrn-material to display them together
+- title
+- innerHTML (prior to presenting the materials needed)
+- (multiple)lrn-material
+
+## lrn-material
+- a material needed to complete an objective in the course
+- example: You will need a paint brush, toothpick, and slate to accomplish this
+- title eg; Chalk
+- details (optional) eg; Buy white and yellow chalk
+- image (optional) eg; pieces of chalk
+- icon (optional) eg; none
+- url (optional) eg; link to university art supply vendor (others: go buy this book from ___ , go use codepen)
+
 ## [lrn-vocab](https://github.com/LRNWebComponents/lrn-vocab)
 - vocabulary term
 - term
