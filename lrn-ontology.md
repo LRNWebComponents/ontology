@@ -3,6 +3,49 @@
 This is intended to give users a guide to understanding the hierarchy of LRN components, their use-cases, properties and relation to other elements.
 ## behaviors
 https://github.com/LRNWebComponents/lrnsys-behaviors contains the behaviors that you can mix into elements. lrn elements are there to abstract instructional / learning connotations away from design. The lrn elements will all implement the design elements that make sense. For this reason, all lrn elements will implement the lrnsys-behaviors for DisplayBehaviors. Not a developer? Then don't worry about this part. Just know it helps standardize and speed up the implementation of new instructional components in a variety of designs and styles.
+
+(feedback that needs to find a home / be hashed out)
+#1: Reminder icon for "Photograph Drawing-in-Progress Now!"
+Why important? Quite literally, if a student forgets to stop and take the image at the designated stage of completion and proceeds to draw further, the moment is forever lost (and they lose points).
+Example: Three layer drawing. "...if you want to use the salt technique you may use it on this layer. Let this layer dry and then take one in-process photo showing all four edges of the paper." <NEED ICON RIGHT HERE>" The second layer will provide..."
+Beyond the immediate need, thinking about web component taxonomy. The instructional function is to alert or remind. Attention grabbing. We can talk that through at some point...
+Other varieties of the same idea are "Photograph Completed Drawing" and "Photograph Drawing Detail". I would want the option of associating text to those; so, a symbolic  icon with an optional legend where I can specify how many images. That would be very helpful in a course like this. By using color and slight variation on the symbology of the icon itself, they would consistently signal the type of photo(s) to be taken at that point in the process and the min-max range of how many to take.
+One last variation would be a (generic drawing) + title (text)....for other types of drawing activities in the course where she is asking for something unique but a "catch-all" reminder icon would suit it.
+#1: Sidebar support (already discussed as aside)
+
+
+Important but less so
+
+#2 Drawing Examples visual treatment
+Why important? Students really need to see a small handful of these, perhaps 3-5 at most at a given time.
+Most often would be a small gallery in context, but would need to be flexible enough to be a single example if that is all we have.
+Many were specified during authoring; alas, few came to be created. I will want some kind of component treatment for these in the fall (I will have examples from the summer pilot).
+Frankly don't care/don't want these to "portal" into a larger gallery (little to no instructional value to that). All about specificity in context. File drawer might make good sense interface-wise.
+Web component taxonomy thoughts: visual example.
+#3 Image of Required Tools and Supplies w/ associated text list
+Why important? Most helpful when delineated at the assignment level (very specific subset). Bear in mind, these are non-majors for whom many supplies are quite unfamiliar (a picture is worth a thousand words, but a picture PLUS words is better yet)
+That said, same item used for a whole module (three assignments, what you will need for the next two weeks of your life) or the whole course (orientation checklist)
+Thus, this page component would be used 15 times (for assignments), 5 times (for modules), and 1 time for the course as a whole...21 times +  in ART 020 alone.
+#4 Minimum Time Required icon
+Why important? Anna and Lori both emphasize this as an important consideration for students to learn to take stock of. Simple clock icon with associated text would do it.
+Just by having two colors (and maybe a larger and smaller version of the icon), I could signal what the assignment as a whole will require at a minimum, and then intersperse time required for major sub-portions
+#5 Questions to Consider panel
+Visual call out of self-reflective questions not answered or submitted
+
+Not critical but would like to have it someday
+
+#6 Written Reflection panel
+They write briefly for every assignment submission; minimally this should be a callout treatment within the page.
+For ART 020, I don't need it to be any more than that (they use an assignment-specific Word template to submit images and the Reflection into Canvas; questions to answer are already there)
+But, Studio courses might use this base plus an in-place completion (like you did for Joel/Peter)
+
+#7 Book cover icon for readings
+I can practically see Keith rolling his eyes at this and ranting about "sustainability"...whatever...with two books in play in this course, it would be a nice touch to have an image of each
+New edition, replace one file, voila. Not a big deal.
+#8 Written Source Citation page component
+Just a page-bottom element; non-crucial, but begs for visual treatment to set it apart from other things
+Lori has been providing these to indicate the sources she has relied upon in authoring
+
 ## lrn-activities
 - a list of lrn-activity tags
 - title (example: Required readings, steps to completion, etc)
