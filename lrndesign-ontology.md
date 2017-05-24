@@ -20,6 +20,9 @@ This is a listing of design components supported in lrn core. These are element 
 ## [lrndesign-contentsequencer](https://github.com/LRNWebComponents/lrndesign-contentsequencer)
 - Wrapping of https://github.com/googlecodelabs/codelab-components
 - Provide a "one page app" feel to a lesson that can function as a stand alone. https://www.youtube.com/watch?v=Dzv4ESis9AA for example describing this
+## [lrndesign-contactcard](https://github.com/LRNWebComponents/lrndesign-contactcard)
+- A stand alone contact card for presenting information about a person
+- Probably useful for profiles and listings of users in a course
 ## lrndesign-avatar
 - fork of / based on https://www.webcomponents.org/element/Abe90/paper-avatar/demo/demo/index.html
 - Provide a way of creating an icon for anything. It has support for jdenticon or doing it via letters or an image
