@@ -33,7 +33,7 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-progress
 - Fork of https://www.webcomponents.org/element/vguillou/material-progress
 - Provide a way of visualizing basic data about A vs B vs C
-## lrndesign-progressspinner
+## lrndesign-progress-spinner
 - Fork of https://www.webcomponents.org/element/Juravenator/progress-spinner
 - Consistent way of showing something is loading / processing / progressing
 ## lrndesign-chip
