@@ -32,6 +32,10 @@ New edition, replace one file, voila. Not a big deal.
 # 8 Written Source Citation page component
 Just a page-bottom element; non-crucial, but begs for visual treatment to set it apart from other things.
 
+## lrn-table
+- an easy way to generate an accessible table so we can drop people messing with table tags
+- data-source, title, description
+- build on top of `<csv-render>` which is one of our tags that's more reusable
 ## lrn-activities
 - a list of lrn-activity tags
 - title (example: Required readings, steps to completion, etc)
