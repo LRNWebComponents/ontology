@@ -21,6 +21,10 @@ These are components that help glue the experience together. They generally aren
 ## lrnsys-xapi
 - an xapi statement generator
 - callback location
+## lrnsys-randomimage
+- add collection of images to a pool for random display
+- use as base for a free writing, random prompt generation, etc. 
+- eventually try to make it also include random text, random math, random sound, video clip, etc. 
 ```
 <lrn-xapi callback="whatever.com/xapi">
 {
