@@ -30,7 +30,7 @@ These are components that help glue the experience together. They generally aren
 {
 	"verb": "viewed",
 	"actor": {
-		"mbox": "btopro@outlook.com",
+		"mbox": "btopro@some.place",
 		"name": "btopro"
 	},
 	"authority"...
