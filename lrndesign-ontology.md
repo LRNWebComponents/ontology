@@ -36,9 +36,6 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-progress
 - Fork of https://www.webcomponents.org/element/vguillou/material-progress
 - Provide a way of visualizing basic data about A vs B vs C
-## lrndesign-progress-spinner
-- Fork of https://www.webcomponents.org/element/Juravenator/progress-spinner
-- Consistent way of showing something is loading / processing / progressing
 ## lrndesign-chip
 - fork of / based on https://www.webcomponents.org/element/WebPaperElements/paper-chip and/or http://bendavis78.github.io/paper-chip/paper-chip/index.html
 - Provide a way of creating a small "chip", useful in overviews / "tag" style listings
