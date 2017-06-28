@@ -58,6 +58,8 @@ This is a listing of design components supported in lrn core. These are element 
     - https://www.webcomponents.org/element/kilombo/random-image
   - **carousel**
     - https://www.webcomponents.org/element/annsonn/fancy-carousel?code=97356eb3339f5e4a4521
+## lrndesign-imagecarousel
+- Provides carousel structure for image display 
 ## lrndesign-audio
 - Ensure we have some control over what the browsers all want to default <audio> to mean
   - **simple**
