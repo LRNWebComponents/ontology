@@ -23,10 +23,11 @@ This is a listing of design components supported in lrn core. These are element 
 ## [lrndesign-contactcard](https://github.com/LRNWebComponents/lrndesign-contactcard)
 - A stand alone contact card for presenting information about a person
 - Probably useful for profiles and listings of users in a course
+
 ## [lrndesign-biocard] (https://lrnwebcomponents.github.io/lrndesign-biocard/components/lrndesign-biocard/)
 - A "meet your instructor" card for presenting static info about an instructor 
 - Includes a button to schedule appointment with instructor, video conference link info, social info, etc. 
-## lrndesign-avatar
+## [lrndesign-avatar](https://github.com/LRNWebComponents/lrndesign-avatar)
 - fork of / based on https://www.webcomponents.org/element/Abe90/paper-avatar/demo/demo/index.html
 - Provide a way of creating an icon for anything. It has support for jdenticon or doing it via letters or an image
 ## lrndesign-datatable
@@ -39,9 +40,6 @@ This is a listing of design components supported in lrn core. These are element 
 ## lrndesign-progress
 - Fork of https://www.webcomponents.org/element/vguillou/material-progress
 - Provide a way of visualizing basic data about A vs B vs C
-## lrndesign-progress-spinner
-- Fork of https://www.webcomponents.org/element/Juravenator/progress-spinner
-- Consistent way of showing something is loading / processing / progressing
 ## lrndesign-chip
 - fork of / based on https://www.webcomponents.org/element/WebPaperElements/paper-chip and/or http://bendavis78.github.io/paper-chip/paper-chip/index.html
 - Provide a way of creating a small "chip", useful in overviews / "tag" style listings
