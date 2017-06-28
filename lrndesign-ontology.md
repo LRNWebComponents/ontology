@@ -24,7 +24,7 @@ This is a listing of design components supported in lrn core. These are element 
 - A stand alone contact card for presenting information about a person
 - Probably useful for profiles and listings of users in a course
 
-## lrndesign-biocard (https://lrnwebcomponents.github.io/lrndesign-biocard/components/lrndesign-biocard/)
+## [lrndesign-biocard](https://lrnwebcomponents.github.io/lrndesign-biocard/components/lrndesign-biocard/)
 - A "meet your instructor" card for presenting static info about an instructor 
 - Includes a button to schedule appointment with instructor, video conference link info, social info, etc. 
 ## [lrndesign-avatar](https://github.com/LRNWebComponents/lrndesign-avatar)
@@ -56,7 +56,7 @@ This is a listing of design components supported in lrn core. These are element 
     - https://www.webcomponents.org/element/kilombo/random-image
   - **carousel**
     - https://www.webcomponents.org/element/annsonn/fancy-carousel?code=97356eb3339f5e4a4521
-## lrndesign-imagecarousel (https://lrnwebcomponents.github.io/lrndesign-imagecarousel/components/lrndesign-imagecarousel/)
+## [lrndesign-imagecarousel](https://lrnwebcomponents.github.io/lrndesign-imagecarousel/components/lrndesign-imagecarousel/)
 - Provides carousel structure for image display 
 - Navigate images side to side
 ## lrndesign-audio
