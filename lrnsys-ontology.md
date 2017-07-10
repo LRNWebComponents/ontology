@@ -3,9 +3,11 @@ These are components that help glue the experience together. They generally aren
 ## [lrnsys-behaviors](https://github.com/LRNWebComponents/lrnsys-behaviors)
 - provides behaviors to be implemented by lrn and lrndesign components that desire object consistency across elements
 - useful for building new lrn components that have a display connotation (for example)
-## lrnsys-chartjs
-- Based on https://github.com/robdodson/chart-elements maybe wrapping it
-- Provide a drop dead simple way of rendering / charting data in chartjs
+
+## [lrnsys-button](https://github.com/LRNWebComponents/lrnsys-button)
+- provide a consistent and accessible button with link, hover, icon and color capabilities
+- Wrapper on top of standard paper-button + a tag functionality with support for iron-icon
+- Useful for building interfaces and wiring up all "buttons" to present in a drop in accessible, well styled, and visually matching manner
 ## lrnsys-lti
 - provide a tag that can do LTI launches for data, basically a glorified OAuth and iframe wrapper (woo)
 ## lrnsys-pdf
