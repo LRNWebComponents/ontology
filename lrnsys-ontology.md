@@ -49,4 +49,7 @@ These are components that help glue the experience together. They generally aren
 - a hierarchy that can be collapsed and expanded by passing it a simple json array
 ## lrnsys-randomimage
 - input a pool of images
-- generates a random selection from the pool 
+- generates a random selection from the pool
+## image-inspector
+- input a src for image
+- zoom in, zoom out, rotate right, rotate left, mirror, and show image in new window
